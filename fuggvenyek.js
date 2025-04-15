@@ -24,4 +24,5 @@ console.log(udv());
     console.log(udv());
     }()); 
 
+
 //getelementbyid
