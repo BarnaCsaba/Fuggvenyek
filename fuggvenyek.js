@@ -25,4 +25,9 @@ console.log(udv());
     }()); 
 
 
+
 //getelementbyid
+// When the button is clicked, add the fragment to the list
+document.getElementById("nev").innerHTML = prompt("Kérem a neved: ")
+    
+  
